@@ -1,4 +1,4 @@
-<h2 align="left">Hi there👋! <br>I'm Naveenraj.</h2>
+<h2 align="left">Hi there👋! <br>I'm vetri.</h2>
 
 ###
 
@@ -7,12 +7,12 @@
 ###
 
 <div align="left">
-  <img src="https://profile-counter.glitch.me/NAVEENRAJ9597/count.svg?%22"  />
+  <img src="https://profile-counter.glitch.me/Vetri2207/count.svg?%22"  />
 </div>
 
 ###
 
-<p align="left">- 🔭 I’m currently working on Software developing project<br>- 🌱 I’m currently learning Software Developer <br>- 🤔 I’m looking for help with internship<br>- 📫 How to reach me: nraj65955@gmail.com <br>- 😄 Pronouns: he/him<br>- ⚡ Fun fact: travel and explore more!</p>
+<p align="left">- 🔭 I’m currently working on Software developing project<br>- 🌱 I’m currently learning Software Developer <br>- 🤔 I’m looking for help with internship<br>- 📫 How to reach me: eavetri10@gmail.com<br>- 😄 Pronouns: he/him<br>- ⚡ Fun fact: travel and explore more!</p>
 
 ###
 
@@ -59,15 +59,13 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/naveenraj-v-84b68225a/" target="_blank">
+  <a href="https://www.linkedin.com/in/vetri-e-028a132a1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.hackerrank.com/profile/nraj65955">
+  <a href="https://www.hackerrank.com/profile/eavetri10">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
-  <a href="https://www.instagram.com/mr_jerry_03__/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
+  
 </div>
 
 ###
@@ -75,8 +73,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NAVEENRAJ9597&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NAVEENRAJ9597&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vetri2207&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vetri2207&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
